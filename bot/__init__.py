@@ -38,7 +38,7 @@ START_COMMAND = get_config("START_COMMAND", "start")
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
+        "Hi. this is personal assistant of @peru_monster .leave your comment here.my master will reply as soon as possible☺️\n"
     )
 )
 # check online status of your bot
